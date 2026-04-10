@@ -3,7 +3,7 @@
 > A production-grade Machine Learning Operations (MLOps) pipeline for predicting used car prices using ensemble models with experiment tracking, JWT-authenticated REST API, real-time monitoring, CI/CD automation, and containerized microservice deployment.
 
 **M.Tech Semester 2 | MLOps Elective | Nirma University**
-**Subject Guide: Dr. Priyank Thakkar Sir**
+**Subject Guide: Dr. Priyank Thakkar**
 
 ---
 
@@ -11,11 +11,10 @@
 
 | Name | Enrollment No. | Program |
 |------|---------------|---------|
-| Vraj Prajapati | 25MCE020 | M.Tech CE |
 | Dev Patel | 25MCD015 | M.Tech CD |
 | Kinjal Rathod | 25MCD009 | M.Tech CD |
 | Soham Dave | 25MCD005 | M.Tech CD |
-
+| Vraj Prajapati | 25MCE020 | M.Tech CE |
 ---
 
 ## Table of Contents
